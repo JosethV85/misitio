@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mi segundo post"
+title:  "Mi segundo pos"
 date:   2026-03-02 12:46:15 -0500
 categories: jekyll update
 ---
